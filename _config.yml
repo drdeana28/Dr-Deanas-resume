@@ -10,12 +10,12 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_name:                    "Dr. Deana Ervin"
+resume_title:                   "The Ultimate Youth Leadership Consultant"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+  "drdeanaspeaks@gmail.com"
+resume_header_contact_info: "In A City Near You | 678.304.6222 | drdeanaspeaks@gmail.com"
+resume_header_intro: "<p> Seasoned exec with 20 years experience in organizational consulting, youth leadershop development, and community engagement experience.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
